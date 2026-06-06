@@ -1,4 +1,5 @@
 PDF Text Extractor
+
 Extracts text from every page of a PDF and exports it as a clean, structured CSV file.
 Built with: Python, pdfplumber, pandas
 Output: Two-column CSV — page number and cleaned page content.
